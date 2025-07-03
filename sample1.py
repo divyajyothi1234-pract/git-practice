@@ -15,6 +15,9 @@ def multiplication(a, b):
 addition(5,3)
 print(addition(5, 3))
 
-print(subtraction(5, 3))
-print(multiplication(5, 3))
 
+print(subtraction(5, 3))
+
+
+## Output: 8
+print(multiplication(5, 3))
