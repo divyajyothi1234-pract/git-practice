@@ -4,3 +4,4 @@ def addition(a, b):
 
 addition(5,3)
 print(addition(5, 3))
+## Output: 8
