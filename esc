@@ -1,0 +1,48 @@
+[33mcommit 1844b8d4d277ab1ee7e2c5f9e5bac8fdc73ce245[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/subtraction[m[33m, [m[1;31morigin/feature/subtraction[m[33m)[m
+Merge: 1ec79bd ea7c89a
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Wed Jul 2 20:49:13 2025 -0400
+
+    merged with devlop branch
+
+[33mcommit 1ec79bd2d14d6567950d5eb64fab5810064b2f7a[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Wed Jul 2 20:45:37 2025 -0400
+
+    added new
+
+[33mcommit ea7c89aea54672662fd6dacf12bdef8bbbfd44b0[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Wed Jul 2 20:32:47 2025 -0400
+
+    added description
+
+[33mcommit bc723d355561f53daa6da398f9ceac03b02149df[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Wed Jul 2 20:28:49 2025 -0400
+
+    added subtraction function
+
+[33mcommit bf64f284a123ea9af88c563b80f670a95927eb8b[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Tue Jul 1 23:46:36 2025 -0400
+
+    again adding the addition
+
+[33mcommit 6ab6128f5fab452aa24fc25b812f8e076cbc5403[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Tue Jul 1 23:38:05 2025 -0400
+
+    adding the addition function
+
+[33mcommit 16a89bbda154fb16888faf2fb2d951889df306af[m
+Author: Divya Jyothi Komatlapalli <divyajyothi1606@gmail.com>
+Date:   Tue Jul 1 23:10:14 2025 -0400
+
+    added addition function
+
+[33mcommit c6059545590d0dd816ee31857e64e80c91278a7e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: divyajyothi1234-pract <84081529+divyajyothi1234-pract@users.noreply.github.com>
+Date:   Mon Jun 30 22:47:27 2025 -0400
+
+    Initial commit
